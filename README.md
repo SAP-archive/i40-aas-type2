@@ -1,3 +1,12 @@
+:warning: **Note:** i40-aas-type2 has been archived and will no longer be maintained by the community. The Open Source implementations of the specification "Details of the AssetAdministrationShell" Part 2 are carried out in the AAS Cloud Repository (soon available at admin-shell.io/aas-cloud-repository) in the context of the activities within the [Industrial Digital Twin Association (IDTA)](https://industrialdigitaltwin.org/) and [Eclipse Digital Twin Top-Level Project](https://projects.eclipse.org/projects/dt). 
+
+-	AAS Cloud Repository provides a reference implementation for the AAS Repository based on the API specifications of the Asset Administration Shell (AAS). It creates the foundation for applications and services providing “AAS-as-a-Service”.
+
+By working within the [Eclipse Digital Twin Top-Level Project](https://projects.eclipse.org/projects/dt), we have bigger Open Source community backed up by the Eclipse Foundation to bring Digital Twins based on AAS to the next level.
+
+Looking forward to seeing in the [Eclipse AAS Model for Java (AAS4J)](https://projects.eclipse.org/projects/dt.aas4j) and AAS Cloud Repository!
+
+
 <h1 align="center">
   i40-aas-type2
 </h1>
